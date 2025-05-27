@@ -1,0 +1,22 @@
+From: security-alert@micr0soft-support.com  
+To: user@example.com  
+Subject: URGENT: Unusual Sign-in Activity Detected on Your Microsoft Account
+
+Dear User,
+
+We noticed unusual sign-in activity on your Microsoft account. For your protection, we have temporarily suspended access.
+
+Sign-in attempt details:  
+Date: May 25, 2025  
+Location: Russia  
+Device: Windows PC
+
+To restore access to your account, please verify your identity immediately by clicking the link below:
+
+https://microsoft-verification-security.com/login
+
+If you do not verify your account within 24 hours, it will be permanently locked for security reasons.
+
+Thank you for your prompt attention.
+
+Microsoft Account Team  
